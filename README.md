@@ -18,7 +18,7 @@ A clean, modern Tic Tac Toe game built with **React + Vite**.
 
 ---
 
-## 🎮 How to Play
+## How to Play
 
 - Hover over a square to preview your move (X or O)
 - Click to place your mark
