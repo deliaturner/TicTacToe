@@ -30,7 +30,7 @@ A clean, modern Tic Tac Toe game built with **React + Vite**.
 ## 🛠 To Run Locally
 
 ```bash
-git clone https://github.com/deliaturner/tic-tac-toe.git
+git clone https://github.com/deliaturner/TicTacToe.git
 cd tic-tac-toe
 npm install
 npm run dev
