@@ -2,14 +2,14 @@
 
 A clean, modern Tic Tac Toe game built with **React + Vite**.
 
-🧠 Preview the current player's move  
-🕹️ Click to make a move  
-🏆 Detects winners and draws  
-🎨 Simple, responsive layout
+- Preview the current player's move  
+- Click to make a move  
+- Detects winners and draws  
+- Simple, responsive layout
 
 ---
 
-## 🚀 Technologies
+## Technologies
 
 - React with Hooks
 - Vite for fast dev and build
@@ -27,7 +27,7 @@ A clean, modern Tic Tac Toe game built with **React + Vite**.
 
 ---
 
-## 🛠 To Run Locally
+## To Run Locally
 
 ```bash
 git clone https://github.com/deliaturner/TicTacToe.git
